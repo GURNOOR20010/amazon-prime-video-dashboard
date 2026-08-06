@@ -12,8 +12,8 @@ The goal of this project is to transform raw entertainment data into meaningful 
 
 ## 🖥️ Dashboard Preview
 
-![Amazon Prime Video Dashboard](dashboard.png)
-
+[![Amazon Prime Video Dashboard](dashboard.png)
+](https://github.com/GURNOOR20010/amazon-prime-video-dashboard/blob/main/amazone%20prime%20video.png)
 ---
 
 ## 🎯 Objectives
